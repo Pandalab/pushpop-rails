@@ -10,8 +10,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Nicholas W. Watson"]
   s.email       = ["nick@entropi.co"]
   s.homepage    = "http://github.com/entropillc/PushPop-Rails"
-  s.summary     = "A Ruby on Rails gem that integrates Entropi Software's PushPop framework developed by Justin D'Arcangelo in to the asset pipeline"
-  s.description = "A Ruby on Rails gem that integrates Entropi Software's PushPop framework developed by Justin D'Arcangelo"
+  s.summary     = "A Ruby on Rails gem that integrates Entropi Software's Pushpop framework in to the asset pipeline"
+  s.description = "A Ruby on Rails gem that integrates Entropi Software's Pushpop framework"
 
   s.files = Dir["lib/**/*"] + ["Rakefile", "README.md"]
   s.files += [
