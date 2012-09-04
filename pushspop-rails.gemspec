@@ -19,7 +19,7 @@ Gem::Specification.new do |s|
               "vendor/assets/Pushpop/externals/scrollkit/scrollkit.js",
               "vendor/assets/Pushpop/externals/scrollkit/background.png",
               "vendor/assets/Pushpop/background.png",
-              "vendor/assets/Pushpop/background@2x.png"
+              "vendor/assets/Pushpop/background@2x.png",
               "vendor/assets/Pushpop/pushpop.css",
               "vendor/assets/Pushpop/pushpop.js",
               "vendor/assets/Pushpop/pushpop-table-view/pushpop-table-view.css",
